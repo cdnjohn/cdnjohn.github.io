@@ -324,6 +324,9 @@ a:visited {
 	        animation: blink-1 2s infinite both;
 }
 
+body {
+  background-color: #fff;
+}
 
 /**
  * ----------------------------------------
