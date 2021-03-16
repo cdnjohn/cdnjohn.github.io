@@ -1,0 +1,45 @@
+#matches {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: auto;
+}
+
+#matches td, #matches th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  align-self: center;
+}
+#matchess tr:nth-child(even){background-color: #f2f2f2;}
+
+#matches tr:hover {background-color: #ddd;}
+
+#matches th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #000;
+  color: white;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
