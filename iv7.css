@@ -1,5 +1,8 @@
-#matches {
+body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#matches {
   border-collapse: collapse;
   width: auto;
 }
