@@ -76,7 +76,8 @@ a:active {
 
 #app {
   font-family: "Lucida Console", "Courier New", monospace;
-  width: auto;    
+  width: auto;  
+  max-width: 250px;
   background-color: #8B0000;
   font-weight: bold;
   color: white;
