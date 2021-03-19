@@ -74,9 +74,9 @@ a:active {
   -webkit-transform: rotate(45deg);
 }
 
-a.app:link {color:#fff;}
-a.app:visited {color:#fff;}
-a.app:hover {color:#fff;}
+a#appurl:link {color:#fff;}
+a#appurl:visited {color:#fff;}
+a#appurl:hover {color:#fff;}
 
 #app {
   font-family: "Lucida Console", "Courier New", monospace; 
